@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "mirza";
+    src: url("../fonts/Mirza.ttf") format("opentype");   
+        /* Make sure you defined the correct path, which is related to
+            the location of your file `my_css.css` */ 
+    }
+    body {
+        font-family: "mirza" !important;
+    }
